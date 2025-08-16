@@ -1,7 +1,10 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:00b4d8&height=180&section=header&text=Shivraj%20Perkar&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
+<!-- Banner with Name -->
+<div style="position: relative; text-align: right; color: white;">
+  <img src="Github_background.gif" width="100%"/>
+  <h1 style="position: absolute; bottom: 20px; right: 40px; color: white; font-size: 36px;">
+    Shivraj Perkar
+  </h1>
+</div>
 
 <h2 align="center">🚀 Aspiring AI/ML Engineer | Full Stack Developer | Problem Solver</h2>
 <p align="center">
@@ -69,19 +72,21 @@ Motivated and passionate developer with strong full-stack, AI/ML, and problem-so
 ---
 
 ## 🚀 Featured Projects  
-<p align="center">
-  <a href="https://github.com/Aurialedge/cookiepedia-vite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurialedge&repo=cookiepedia-vite&theme=radical" />
-  </a>
-  <a href="https://github.com/Aurialedge/Stockie">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurialedge&repo=Stockie&theme=radical" />
-  </a>
-  <a href="https://github.com/Aurialedge/Car_price_predictor">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aurialedge&repo=Car_price_predictor&theme=radical" />
-  </a>
-</p>
 
-➡️ Explore more projects: [GitHub Repositories](https://github.com/Aurialedge?tab=repositories)
+### 🍪 [Cookiepedia – AI Cooking Platform](https://github.com/Aurialedge/cookiepedia-vite)  
+AI-powered recipe platform with **personalized meal suggestions**, **JWT auth**, and an **AI chatbot**.  
+
+---
+
+### 📈 [Stockie – AI Stock Prediction](https://github.com/Aurialedge/Stockie)  
+Stock prediction platform with **LSTM, ARIMA, Regression models**, Flask API, and Power BI dashboards.  
+
+---
+
+### 🚗 [Car Price Predictor](https://github.com/Aurialedge/Car_price_predictor)  
+Flask ML app for used car price prediction with **92% accuracy**, deployed on **Heroku**.  
+
+➡️ Explore more: [GitHub Repositories](https://github.com/Aurialedge?tab=repositories)
 
 ---
 
