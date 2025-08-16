@@ -1,6 +1,6 @@
 <!-- Banner with Name -->
 <div style="position: relative; text-align: right; color: white;">
-  <img src="Github_background.gif" width="100%"/>
+  <img src="Github_background.gif"  height="75%" width="relative"/>
   <h1 style="position: absolute; bottom: 20px; right: 40px; color: white; font-size: 36px;">
     Shivraj Perkar
   </h1>
