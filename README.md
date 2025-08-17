@@ -1,6 +1,12 @@
+<!-- Full Page Styled Border -->
+<div style="border-left: 6px solid #00b4d8; border-right: 6px solid #0e75b6; padding: 25px; margin: 0;">
+
+<!-- Inner Centered Card -->
+<div style="max-width: 1000px; margin: auto; border-radius: 15px; padding: 20px; background: white; box-shadow: 0px 6px 18px rgba(0,0,0,0.15);">
+
 <!-- Banner with Name -->
 <div style="position: relative; text-align: right; color: white;">
-  <img src="Github_background.gif"  height="75%" width="relative"/>
+  <img src="Github_background.gif" width="100%" height="75%" />
   <h1 style="position: absolute; bottom: 20px; right: 40px; color: white; font-size: 36px;">
     Shivraj Perkar
   </h1>
@@ -29,7 +35,6 @@ Motivated and passionate developer with strong full-stack, AI/ML, and problem-so
 </p>
 
 <p align="center">
-  <!-- GitHub Contribution Calendar -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aurialedge&theme=tokyo-night&hide_border=true" height="280"/>
 </p>
 
@@ -118,3 +123,6 @@ Bachelor of Technology in Computer Science and Engineering
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00b4d8,100:0e75b6&height=120&section=footer" />
 </p>
+
+</div> <!-- inner card -->
+</div> <!-- full page border -->
