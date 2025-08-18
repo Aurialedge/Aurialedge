@@ -25,7 +25,7 @@ Motivated and passionate developer with strong full-stack, AI/ML, and problem-so
 ---
 
 ## 📊 GitHub Stats  
-<p align="center">
+<p align="center" style="background-color: Grey">
   <img src="https://github-readme-stats.vercel.app/api?username=Aurialedge&show_icons=true&theme=tokyonight&hide_border=true" height="150" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aurialedge&theme=tokyonight&hide_border=true" height="150" />
 </p>
